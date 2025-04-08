@@ -104,6 +104,8 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
         updateHighScore()
         spaceship.removeFromParent()
         spaceship.stopFiring()
+        scoreLabel.isHidden = true
+        livesLabel.isHidden = true
 
         Ufo.stopSpawning() // Stoppt das UFO-Spawning
         DifficulityIncrease.stopDifficultyIncrease() // Stoppt die Schwierigkeitserhöhung
