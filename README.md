@@ -34,19 +34,3 @@ SpaceBattle ist ein klassisches 2D-Arcade-Spiel, entwickelt mit **Swift** und **
 
 ---
 
-## 🧱 Projektstruktur
-
-SpaceBattle/
-├── Models/
-│ ├── Spaceship.swift
-│ ├── Ufo.swift
-│ └── DifficulityIncrease.swift
-├── Scenes/
-│ ├── StartScene.swift
-│ └── GameScene.swift
-├── Manager/
-│ └── GameManager.swift
-└── Assets/
-├── spaceship.png
-├── ufo.png
-└── background.png
