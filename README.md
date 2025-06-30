@@ -6,6 +6,7 @@ SpaceBattle ist ein klassisches 2D-Arcade-Spiel, entwickelt mit **Swift** und **
 
 ## 📲 Screenshots
 
+<img src="overview.png" width="300">
 
 
 ---
